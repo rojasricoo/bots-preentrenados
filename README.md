@@ -1,41 +1,53 @@
-## Your First Nodejs/Express Website
+### Mi proyecto de chat bots preentrenados
 
-This is the repository of a very simple nodejs real project
-The goal of this code, is that you understand all the code
-and the reason Why I choose certain modules.
+Este proyecto se centra en el desarrollo de chat bots preentrenados para temas específicos. El objetivo es crear una aplicación que permita a los usuarios interactuar con estos bots de forma natural y eficiente.
 
-![](docs/screenshot.png)
+**Frontend:**
 
-### You will learn
+- Diseño de una interfaz de usuario intuitiva y atractiva.
+- Integración de los chat bots preentrenados en la interfaz.
+- Implementación de funcionalidades para interactuar con los bots.
 
-- How to start a nodejs project
-- How to create routes for your server application
-- How to use a template engine like ejs, handlebars, pug, etc.
-- Call Assets from CDNs and use static files
-- Divide content using partials feature from Template engines
-- Deploy our app using a simple service called Now(A service from Zeit Company)
+**Backend:**
 
-### Installation
+- Configuración de un servidor Node.js/Express.
+- Creación de rutas para gestionar las solicitudes de los usuarios.
+- Implementación de la lógica de interacción con los chat bots.
 
-First, clone the repo
+**Imagen:**
+
+![](docs/portada.png)
+
+**Estado actual:**
+
+Actualmente, el proyecto se encuentra en una fase inicial de desarrollo. Se ha realizado un pequeño avance en el frontend, como se muestra en la imagen adjunta. En los próximos días, me centraré en trabajar en el frontend y el backend de la aplicación.
+
+
+
+
+
+
+### Instalacion en Linux/MacOS/Windows
+
+Clona el repositorio con <a href='https://www.git-scm.com/'>Git</a>
 
 ```sh
 git clone https://github.com/FaztWeb/first-node-express-app
 ```
 
-move to the folder
+Dirigete a al directorio
 
 ```sh
 cd first-node-express-app
 ```
 
-install dependencies:
+Instala las dependencias
 
 ```sh
 npm install
 ```
 
-execute the project
+ejecuta el servidos
 
 ```sh
 npm run dev

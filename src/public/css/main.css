@@ -1,5 +1,9 @@
 body {
-  background: #202020 !important;
+  background: #202020;
   color: white;
+}
+
+img {
+  width: 60%;
 }
 
