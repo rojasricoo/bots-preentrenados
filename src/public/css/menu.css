@@ -1,0 +1,37 @@
+
+.navbar-brand {
+    font-family: 'Karla', cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    text-transform: uppercase;
+    font-family: 'Karla', cursive;
+    font-weight: bold;
+  }
+  
+  .input-search {
+    background-color: rgb(52, 52, 85);
+    border: 2px solid rgb(84, 84, 148);
+    outline: none;
+    font-family: "Spacy Rice", cursive;
+    font-weight: 700;
+    color: white;
+    font-size: 1rem;
+  }
+  
+  .input-search::placeholder {
+    color: rgb(138, 131, 131);
+    font-family: "Spacy Rice";
+    font-weight: bolder;
+    font-size: 1rem;
+    letter-spacing: .2px;
+  
+  
+  }
+  
+  .input-search:focus {
+    background-color: rgb(57, 57, 94);
+    color: white;
+  }
