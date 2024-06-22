@@ -32,13 +32,13 @@ Actualmente, el proyecto se encuentra en una fase inicial de desarrollo. Se ha r
 Clona el repositorio con <a href='https://www.git-scm.com/'>Git</a>
 
 ```sh
-git clone https://github.com/FaztWeb/first-node-express-app
+git clone https://github.com/rojasricoo/bots-preentrenados.git
 ```
 
 Dirigete a al directorio
 
 ```sh
-cd first-node-express-app
+cd cd bots-preentrenados
 ```
 
 Instala las dependencias
