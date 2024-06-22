@@ -38,7 +38,7 @@ git clone https://github.com/rojasricoo/bots-preentrenados.git
 Dirigete a al directorio
 
 ```sh
-cd cd bots-preentrenados
+cd bots-preentrenados
 ```
 
 Instala las dependencias
